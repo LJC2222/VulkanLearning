@@ -5,7 +5,7 @@
 #include <stdexcept>
 #include <functional>
 #include <cstdlib>
-
+//提交到github和gitee测试
 class HelloTriangleApplication {
 public:
 	void run() {
